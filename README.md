@@ -113,6 +113,17 @@ O arquivo [`powerbi/Logistics_Analytics.pbix`](powerbi/Logistics_Analytics.pbix)
 | **Produtos e Frete** | Volume de itens, valor dos produtos, frete total e participação do frete por categoria. |
 | **Experiência do Cliente** | Notas médias por prazo de entrega, distribuição das faixas de satisfação e baixa satisfação por estado. |
 
+### Prévia do dashboard
+
+<p align="center">
+  <img src="images/01-visao-geral.png" width="49%" alt="Página Visão Geral do relatório Logistics Analytics" />
+  <img src="images/02-desempenho-entregas.png" width="49%" alt="Página Desempenho das Entregas do relatório Logistics Analytics" />
+</p>
+<p align="center">
+  <img src="images/03-produtos-frete.png" width="49%" alt="Página Produtos e Frete do relatório Logistics Analytics" />
+  <img src="images/04-experiencia-cliente.png" width="49%" alt="Página Experiência do Cliente do relatório Logistics Analytics" />
+</p>
+
 O relatório também possui tooltips personalizados para contextualizar pontos específicos, incluindo a baixa quantidade de pedidos nos últimos meses da série temporal.
 
 ## Principais indicadores e resultados
