@@ -1,0 +1,28 @@
+# Dados originais e arquivos derivados localmente
+# Os CSVs são obtidos diretamente do Kaggle; não versionar os arquivos de dados.
+data/raw/
+data/processed/
+
+# Jupyter Notebook
+**/.ipynb_checkpoints/
+.virtual_documents/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Logs e arquivos temporários do Windows
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
